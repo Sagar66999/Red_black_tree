@@ -39,11 +39,11 @@ A Red-Black Tree is a **self-balancing Binary Search Tree** that guarantees
 ### Using g++ (Linux / Windows / Mac)
 
 ```bash
-g++ simple.cpp -o simple
+g++ RB_tree.cpp -o simple
 ./simple
 ```
 
-(Replace `simple.cpp` with your file name if different)
+(Replace `RB_tree.cpp` with your file name if different)
 
 ---
 
@@ -66,7 +66,7 @@ Inorder Traversal: 5 10 15 20 30
 ##  File Structure
 
 ```
-simple.cpp   → Main source file  
+RB_tree.cpp   → Main source file  
 README.md    → Project documentation  
 ```
 
@@ -81,4 +81,5 @@ README.md    → Project documentation
 5. Tree remains approximately balanced
 
 ---
+
 
